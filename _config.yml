@@ -253,5 +253,5 @@ email: ""
 encoding: utf-8 # Make sure the encoding is right
 lang: en-CA # Set the site language
 languages: ["en", "fr"]
-theme-name: GCWeb
+theme-name: GCWeb/GCWeb
 title: "gcweb-jekyll" # Site name or title, also used in jekyll-seo-tag
